@@ -1,6 +1,6 @@
 #! python3
 
-# import de librairies
+# imports
 import tkinter
 import random
 
