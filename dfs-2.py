@@ -80,5 +80,6 @@ pos = [0, 4]
 newpos = []
 queue = []
 
+input() # wait
 motion()
 window.mainloop()
